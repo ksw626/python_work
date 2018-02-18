@@ -4,7 +4,7 @@
 #따라서 result = int(number) * value 에서 처음에 int를 빼고 썼을때 스트링과 인트는 연산이 안된다
 #인풋은 무조건 타입 지정이 필요하다
 
-number = input('number: ')
+number = input('input gugudan ')
 
 print('-------' + number + 'DAN' + '-------')
     
